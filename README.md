@@ -19,7 +19,6 @@
 <div>
   
 
-[![](https://visitcount.itsvg.in/api?id=RushikeshShelar&icon=0&color=0)](https://visitcount.itsvg.in)
-
+[![](https://visitcount.itsvg.in/api?id=RushikeshShelar&label=Profile%20Views&color=6&icon=1&pretty=true)](https://visitcount.itsvg.in)
 </div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
